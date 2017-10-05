@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.popland.pop.highlightedwordevent.MainActivity">
+    <item
+        android:id="@+id/saochep"
+        android:orderInCategory="0"
+        android:title="Copy"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="always" />
+</menu>
